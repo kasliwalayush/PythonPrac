@@ -1,0 +1,2029 @@
+{
+  "success": true,
+  "data": {
+    "filename": "CLT2_2021_12113_article.json",
+    "schema": {
+      "version": "v-1.3",
+      "url": "https://wiley.smartdiagnostics.ai/schema/v-1.3"
+    },
+    "generatedAt": "2022-01-03T09:08:21Z",
+    "viewReport": "https://ui-wiley.smartdiagnostics.ai/ui/index.html?token=5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3",
+    "cuData": {
+      "is_feedback_submitted": 0,
+      "highlights": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": ""
+      },
+      "orcid_info": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "orcid": [
+          {
+            "author_name": "Mensiena Kiewiet",
+            "orc_id": "0000-0002-2890-1586",
+            "is_valid": "true"
+          }
+        ]
+      },
+      "isMetadataXml": "true",
+      "line_numbering": "Y",
+      "supplementary_tables_count": 1,
+      "table_count": 2,
+      "editable_table_count": 3,
+      "supplementary_figures_count": 1,
+      "figure_count": 4,
+      "authors_count": 8,
+      "affiliations_count": 2,
+      "keywords_count": 7,
+      "missing_figures": [],
+      "missing_supplementary_figures": [],
+      "missing_tables": [],
+      "missing_supplementary_tables": [],
+      "missing_scheme": [],
+      "missing_references": [],
+      "missing_figure_caption": [],
+      "missing_table_caption": [],
+      "missing_scheme_caption": [],
+      "missing_citation_for_figures": [
+        {
+          "id": "Line_manu_118",
+          "name": ""
+        },
+        {
+          "id": "Line_manu_119",
+          "name": ""
+        },
+        {
+          "id": "Line_manu_120",
+          "name": ""
+        },
+        {
+          "id": "Line_manu_121",
+          "name": ""
+        }
+      ],
+      "missing_citation_for_supplementary_figures": [
+        {
+          "id": "Line_manu_131",
+          "name": ""
+        }
+      ],
+      "missing_citation_for_tables": [
+        {
+          "id": "Line_manu_112",
+          "name": ""
+        },
+        {
+          "id": "Line_manu_113",
+          "name": ""
+        }
+      ],
+      "missing_citation_for_supplementary_tables": [
+        {
+          "id": "Line_manu_129",
+          "name": ""
+        }
+      ],
+      "missing_citation_for_references": [
+        {
+          "id": "bib36",
+          "name": "36."
+        }
+      ],
+      "missing_citation_for_schemes": [],
+      "appendix_metadata": [],
+      "supplementary_appendix_metadata": [],
+      "supplementary_files_information": [],
+      "title": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": "Cross-reactivity between tick and wasp venom can contribute to frequent wasp sensitization in patients with the α-Gal syndrome.",
+        "metadata": "Cross-reactivity between tick and wasp venom can contribute to frequent wasp sensitization in patients with the α-Gal syndrome",
+        "isMatch": "true",
+        "verified": "false",
+        "deleted": "false",
+        "editReason": ""
+      },
+      "abstract": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": "Background: α-Gal syndrome (AGS) is a food allergy with severe delayed allergic reactions, mediated by IgE-reactivity to galactose-α1,3-galactose (α-Gal). AGS is strongly associated with tick bites. An increased incidence of venom sensitization has been found in AGS patients. Here, we evaluated the frequency of wasp sensitization in Swedish AGS patients and the possible cross-reactivity between wasp venom and tick proteins. Methods: Sera from 136 Swedish AGS patients and 29 wasp-positive non-AGS control sera were analysed for IgE-reactivity against wasp venom (<i>Vespula spp</i>.), the European tick <i>Ixodes ricinus</i> (Streptavidin ImmunoCAP), α-Gal and total IgE by ImmunoCAP. The presence of α-Gal on wasp venom proteins (<i>Vespula vulgaris</i>) was investigated by western blot, and possible cross-reactivity between wasp venom and tick proteins by ELISA and western blot. Involvement of cross-reactive carbohydrate domains (CCDs) was also assessed. Results: Wasp sensitization was present in 54% of AGS patients, although the IgE levels were low. Wasp sensitized patients had higher IgE levels to α-Gal and total IgE levels compared to non-wasp sensitized AGS patients. α-Gal was not detected in wasp venom, but cross-reactivity between wasp and tick proteins was demonstrated which was not dependent on CCDs. The same cross-reactivity was also observed in the control sera. Furthermore, 17 putative cross-reactive peptides were identified using an <i>in silico</i> approach. Conclusions: For the first time, cross-reactivity between wasp venom and tick proteins has been described. This may be a reason why the majority of Swedish AGS patients, who have all been tick bitten, are also sensitized against wasp.",
+        "metadata": "Background: α-Gal syndrome (AGS) is a food allergy with severe delayed allergic reactions, mediated by IgE-reactivity to galactose-α1,3-galactose (α-Gal). AGS is strongly associated with tick bites. An increased incidence of venom sensitization has been found in AGS patients. Here, we evaluated the frequency of wasp sensitization in Swedish AGS patients and the possible cross-reactivity between wasp venom and tick proteins. Methods: Sera from 136 Swedish AGS patients and 29 wasp-positive non-AGS control sera were analysed for IgE-reactivity against wasp venom (Vespula spp.), the European tick Ixodes ricinus (Streptavidin ImmunoCAP), α-Gal and total IgE by ImmunoCAP. The presence of α-Gal on wasp venom proteins (Vespula vulgaris) was investigated by western blot, and possible cross-reactivity between wasp venom and tick proteins by ELISA and western blot. Involvement of cross-reactive carbohydrate domains (CCDs) was also assessed. Results: Wasp sensitization was present in 54% of AGS patients, although the IgE levels were low. Wasp sensitized patients had higher IgE levels to α-Gal and total IgE levels compared to non-wasp sensitized AGS patients. α-Gal was not detected in wasp venom, but cross-reactivity between wasp and tick proteins was demonstrated which was not dependent on CCDs. The same cross-reactivity was also observed in the control sera. Furthermore, 17 putative cross-reactive peptides were identified using an in silico approach. Conclusions: For the first time, cross-reactivity between wasp venom and tick proteins has been described. This may be a reason why the majority of Swedish AGS patients, who have all been tick bitten, are also sensitized against wasp.",
+        "isMatch": "true",
+        "verified": "false",
+        "deleted": "false",
+        "editReason": ""
+      },
+      "keywords": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "keyword": [
+          {
+            "manuscript": "α-Gal syndrome",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": "cross-reactivity",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "<i>Ixodes ricinus</i>",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "red meat allergy",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "tick",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "wasp",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "<i>Vespula vulgaris</i>",
+            "isMatch": "false",
+            "metadata": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "incorrect metadata"
+          },
+          {
+            "manuscript": "<p>\n\nFood allergy\n\n<br></p>",
+            "metadata": "Food allergy",
+            "isMatch": "false",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "manuscript": "<p>\n\nInsect hypersensitivity\n\n<br></p>",
+            "metadata": "Insect hypersensitivity",
+            "isMatch": "false",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          }
+        ]
+      },
+      "funding_information": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "funder": [
+          {
+            "manuscript": {
+              "fundingInstitute": "The Swedish Heart-Lung Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Swedish Heart-Lung Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "manuscript": {
+              "fundingInstitute": "The Eva Oscar Ahrens Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Eva Oscar Ahrens Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "manuscript": {
+              "fundingInstitute": "Swedish Heart-Lung Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Swedish Research Council",
+              "grantID": "",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "manuscript": {
+              "fundingInstitute": "The Hesselman Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Hesselman Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "manuscript": {
+              "fundingInstitute": "The Konsul Th C Bergh Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Konsul Th C Bergh Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "Karolinska Institutet Research Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "Karolinska Institutet Research Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "Region Stockholm (ALF project)",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "Region Stockholm (ALF project)",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Swedish Cancer and Allergy Foundation and The Magnus Bergvall Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "The Swedish Cancer and Allergy Foundation and The Magnus Bergvall Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Swedish Asthma and Allergy Association’s Research Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "The Swedish Asthma and Allergy Association’s Research Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The Tore Nilsson Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "The Tore Nilsson Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "The King Gustaf V 80th Birthday Foundation",
+              "grantID": "",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "The King Gustaf V 80th Birthday Foundation",
+              "grantID": "NA",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          },
+          {
+            "isMatch": "false",
+            "metadata": {
+              "fundingInstitute": "EU H2020 project FoodEnTwin",
+              "grantID": "GA 810752",
+              "recipient": ""
+            },
+            "manuscript": {
+              "fundingInstitute": "EU H2020 project FoodEnTwin",
+              "grantID": "GA 810752",
+              "recipient": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "manuscript update"
+          }
+        ]
+      },
+      "author_group": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "authors": [
+          {
+            "manuscript": {
+              "firstname": "M B Gea",
+              "lastname": "Kiewiet",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "0000-0002-2890-1586",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Mensiena",
+              "lastname": "Kiewiet",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "0000-0002-2890-1586"
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Marija",
+              "lastname": "Perusko",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Marija",
+              "lastname": "Perusko",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Jeanette",
+              "lastname": "Grundström",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Jeanette",
+              "lastname": "Grundstrom",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Carl",
+              "lastname": "Hamsten",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Carl",
+              "lastname": "Hamsten",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Maria",
+              "lastname": "Starkhammar",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff2"
+            ],
+            "affiliation_label": [
+              "2"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Maria",
+              "lastname": "Starkhammar",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Danijela",
+              "lastname": "Apostolovic",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Danijela",
+              "lastname": "Apostolovic",
+              "corresponding_author": "no",
+              "email": "",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "manuscript": {
+              "firstname": "Marianne van",
+              "lastname": "Hage",
+              "corresponding_author": "yes",
+              "email": "Marianne.van.Hage@ki.se",
+              "orcid": "",
+              "honorifics": "",
+              "family_name_prefix": "",
+              "deal_eligibility": ""
+            },
+            "affiliation_id": [
+              "aff1"
+            ],
+            "affiliation_label": [
+              "1"
+            ],
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Marianne",
+              "lastname": "van Hage",
+              "corresponding_author": "yes",
+              "email": "Marianne.van.Hage@ki.se",
+              "orcid": ""
+            },
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          }
+        ]
+      },
+      "affiliations": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "affiliation": [
+          {
+            "label": "1",
+            "id": "aff1Line_manu_5",
+            "manuscript": {
+              "department": "Department of Medicine Solna",
+              "institute": "Division of Immunology and Allergy, Karolinska Institutet and University Hospital",
+              "addressLine": "",
+              "city": "Stockholm",
+              "state": "",
+              "country": "Sweden",
+              "postalCode": "",
+              "countryCode": "SE"
+            },
+            "metadata": {
+              "department": "Division of Immunulogy and Allergy",
+              "institute": "Karolinska Institute Department of Medicine Solna",
+              "addressLine": "",
+              "city": "Stockholm",
+              "state": "",
+              "country": "Sweden",
+              "postalCode": ""
+            },
+            "isMatch": "false",
+            "ringgoldId": "",
+            "verified": "true",
+            "deleted": "false",
+            "editReason": "system issue"
+          },
+          {
+            "label": "2",
+            "id": "aff2Line_manu_6",
+            "manuscript": {
+              "department": "Department of Internal Medicine",
+              "institute": "",
+              "addressLine": "Södersjukhuset",
+              "city": "Stockholm",
+              "state": "",
+              "country": "Sweden",
+              "postalCode": ""
+            },
+            "metadata": {
+              "department": "Department of Internal Medicine",
+              "institute": "Södersjukhuset",
+              "addressLine": "",
+              "city": "Stockholm",
+              "state": "",
+              "country": "Sweden",
+              "postalCode": ""
+            },
+            "isMatch": "true",
+            "ringgoldId": "",
+            "verified": "false",
+            "deleted": "false",
+            "editReason": ""
+          }
+        ]
+      },
+      "corresponding_author_address": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "corresponding_author": [
+          {
+            "metadata": {
+              "firstname": "",
+              "lastname": ""
+            },
+            "isMatch": "false",
+            "manuscript": {
+              "firstname": "Marianne van",
+              "lastname": "Hage"
+            }
+          }
+        ]
+      },
+      "corresponding_author_email_address": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "corresponding_author_email": [
+          {
+            "metadata": "Marianne.van.Hage@ki.se",
+            "isMatch": "true",
+            "manuscript": "marianne.van.hage@ki.se"
+          }
+        ]
+      },
+      "editor_group": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "editor": [
+          {
+            "manuscript": {
+              "firstname": "",
+              "lastname": "",
+              "salutation": "",
+              "role": "",
+              "orcid": "",
+              "email": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Jean",
+              "lastname": "Bousquet",
+              "salutation": "Prof.",
+              "role": "Editor-in-Chief",
+              "orcid": "0000-0002-4061-4766",
+              "email": "jean.bousquet@orange.frjean.bousquet@inserm.fr"
+            }
+          },
+          {
+            "manuscript": {
+              "firstname": "",
+              "lastname": "",
+              "salutation": "",
+              "role": "",
+              "orcid": "",
+              "email": ""
+            },
+            "isMatch": "false",
+            "metadata": {
+              "firstname": "Claudia",
+              "lastname": "Alessandri",
+              "salutation": "",
+              "role": "Associate Editor",
+              "orcid": "0000-0003-2466-6870",
+              "email": "claudia.alessandri@yahoo.itclaudia.alessandri@fastwebnet.it"
+            }
+          }
+        ]
+      },
+      "figure_metadata": [
+        {
+          "id": 608156,
+          "type": "",
+          "citation": "Yes",
+          "label": "Figure 1",
+          "caption": "Wasp sensitization in AGS patients. (A) Percentage of wasp-sensitized AGS patients. (B) IgE levels against α-Gal, (C) total IgE levels, and (D) IgE levels against I. ricinus in wasp-sensitized AGS patients compared to non-sensitized AGS patients.",
+          "table_float": "",
+          "is_external_figure": true,
+          "file_name": "Figure 1.tif",
+          "file_url": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/PREFLIGHT/Figure 1.tif",
+          "is_usable": "true",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 608157,
+          "type": "",
+          "citation": "Yes",
+          "label": "Figure 2",
+          "caption": "Detection of the α-Gal epitope. (A) Western blot detection of the α-Gal epitope in wasp venom protein and tick protein extract. Bovine thyroglobulin was used as a positive control. (B) Inhibition of IgE binding to wasp proteins by bTG. A wasp-positive AGS serum pool (pool 2) was preincubated with 1 mg/mL bTG before IgE levels to Vespula vulgaris were determined using ImmunoCAP (i3).",
+          "table_float": "",
+          "is_external_figure": true,
+          "file_name": "figure 2 kopie2.jpg",
+          "file_url": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/PREFLIGHT/figure 2 kopie2.jpg",
+          "is_usable": "true",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 608158,
+          "type": "",
+          "citation": "Yes",
+          "label": "Figure 3",
+          "caption": "Cross-reactivity of wasp venom and tick protein extracts assessed in ELISA (A) Inhibition of IgE binding to tick protein by wasp venom. A dominantly tick-positive AGS patient serum pool (pool 1) was preincubated with wasp venom extract and the remaining binding to tick protein was measured by ELISA. Tick protein extract was used as a positive control. (B) Inhibition of IgE binding to wasp venom proteins by tick protein extract. A wasp- and tick positive AGS patient serum pool (pool 3) was preincubated with tick protein extract and the remaining binding to wasp protein was measured by ELISA. Wasp venom was used as a positive control. (C, D, E) Inhibition of IgE binding of individual AGS patient sera to wasp venom protein by wasp venom, tick protein extract and bovine thyroglobulin. (F, G, H) Inhibition of IgE binding of individual wasp-positive control sera to wasp venom protein by wasp venom, tick protein extract and bovine thyroglobulin. Percentage inhibition of IgE binding is shown. WV= wasp venom, TE= tick protein extract, bTG=bovine thyroglobulin.",
+          "table_float": "",
+          "is_external_figure": true,
+          "file_name": "Figure 3.tif",
+          "file_url": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/PREFLIGHT/Figure 3.tif",
+          "is_usable": "true",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 608159,
+          "type": "",
+          "citation": "Yes",
+          "label": "Figure 4",
+          "caption": "Cross-reactivity of wasp venom and tick protein extract assessed in western blot. (A) IgE binding to tick protein of a dominantly wasp-positive AGS patient serum pool (pool 2) with or without preincubation with 100 µg/mL wasp venom. (B) IgE binding to wasp venom protein of a dominantly tick-positive AGS patient serum pool (pool 1) with or without preincubation with 100 µg/mL tick protein extract. (C) IgE binding to wasp protein of a wasp- and tick-positive serum pool of controls (pool 4) with or without preincubation with 100 µg/mL tick extract. (D) IgE binding to wasp protein of a wasp-positive serum pool of controls (tick-negative, pool 5) with or without preincubation with 100 µg/mL tick extract. (E) IgE binding to wasp venom protein of a dominantly tick-positive AGS patient serum pool (pool 1) with or without preincubation with a CCD-inhibitor. WV= wasp venom, TE= tick protein extract, control= secondary antibody control.",
+          "table_float": "",
+          "is_external_figure": true,
+          "file_name": "Figure 4 kopie.jpg",
+          "file_url": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/PREFLIGHT/Figure 4 kopie.jpg",
+          "is_usable": "true",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        }
+      ],
+      "table_metadata": [
+        {
+          "id": 202324,
+          "label": "Table 1",
+          "caption": "Characteristics of serum pools.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 202325,
+          "label": "Table 2",
+          "caption": "Peptides similarity between tick hemelipoglycoprotein (A0A0D3RJ94) and wasp",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        }
+      ],
+      "reference_metadata": [
+        {
+          "id": 4701400,
+          "label": "1.",
+          "caption": "Commins SP, James HR, Kelly EA, et al. The relevance of tick bites to the production of IgE antibodies to the mammalian oligosaccharide galactose-α-1,3-galactose. J Allergy Clin Immunol. 2011;127(5):1286-1293.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701401,
+          "label": "2.",
+          "caption": "Apostolovic D, Mihailovic J, Commins SP, et al. Allergenomics of the tick Ixodes ricinus reveals important α‐Gal–carrying IgE‐binding proteins in red meat allergy. Allergy. 2020;75(1):217:220.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701402,
+          "label": "3.",
+          "caption": "Crispell G, Commins SP, Archer-Hartman SA, et al. Discovery of Alpha-Gal-Containing Antigens in North American Tick Species Believed to Induce Red Meat Allergy. Front Immunol. 2019;10:1056.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701403,
+          "label": "4.",
+          "caption": "Hashizume H, Fujiyama T, Umayahara T, et al. Repeated Amblyomma testudinarium tick bites are associated with increased galactose-α-1,3-galactose carbohydrate IgE antibody levels: A retrospective cohort study in a single institution. J Am Acad Dermatol. 2018;78(6):1135-1141.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701404,
+          "label": "5.",
+          "caption": "Kim MS, Straesser MD, Keshavarz B, et al. IgE to galactose-α-1,3-galactose wanes over time in patients who avoid tick bites. J Allergy Clin Immunol Pract. 2020;8(1):364-367.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701405,
+          "label": "6.",
+          "caption": "Stoltz LP, Cristiano LM, Dowling APG, et al. Could chiggers be contributing to the prevalence of galactose-alpha-1,3-galactose sensitization and mammalian meat allergy? J Allergy Clin Immunol Pract. 2019;7(2):664-666.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701406,
+          "label": "7.",
+          "caption": "Kutlu A, Unal D. Mammalian Meat Allergy Accompanied by Venom Allergy: A Review of 12 Cases. Iran J Allergy Asthma Immunol. 2019;18(5):584-588.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701407,
+          "label": "8.",
+          "caption": "Choudhary S, Jerath MR, Commins SP. Venom allergy is increased in alpha-gal allergy: shared environmental or immunologic factors? J Allergy Clin Immunol. 2018;141(2):AB199.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701408,
+          "label": "9.",
+          "caption": "Fischer J, Lupberger E, Hebsaker J, et al. Prevalence of type I sensitization to alpha-gal in forest service employees and hunters. Allergy Eur J Allergy Clin Immunol. 2017;72(10):1540-1547.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701409,
+          "label": "10.",
+          "caption": "Venturini M, Lobera T, Sebastián A, et al. Ige to α-gal in foresters and forest workers from La Rioja, north of Spain. J Investig Allergol Clin Immunol. 2018;28(2):106-112.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701410,
+          "label": "11.",
+          "caption": "Von Moos S, Graf N, Johansen P, et al. Risk assessment of hymenoptera re-sting frequency: Implications for decision-making in venom immunotherapy. Int Arch Allergy Immunol. 2012;160(1):86-92.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701411,
+          "label": "12.",
+          "caption": "Zink A, Schuster B, Winkler J, et al. Allergy and sensitization to Hymenoptera venoms in unreferred adults with a high risk of sting exposure. World Allergy Organ J. 2019;12(7):100039.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701412,
+          "label": "13.",
+          "caption": "Sturm GJ, Schuster C, Kranzelbinder B, et al. Asymptomatic sensitization to hymenoptera venom is related to total immunoglobulin E levels. Int Arch Allergy Immunol. 2009;148(3):261-264.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701413,
+          "label": "14.",
+          "caption": "Kiewiet MBG, Apostolovic D, Starkhammar M, et al. Clinical and Serological Characterization of the α-Gal Syndrome—Importance of Atopy for Symptom Severity in a European Cohort. J Allergy Clin Immunol Pract. 2020;8(6):2027-2034.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701414,
+          "label": "15.",
+          "caption": "Bilo BM, Rueff F, Mosbech H, Bonifazi F, et al. Diagnosis of Hymenoptera venom allergy. Allergy. 2005;60(11):1339-1349.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701415,
+          "label": "16.",
+          "caption": "Rodríguez-Pérez R, Monsalve RI, Galán A, et al. Cross-reactivity between Anisakis spp. and Wasp venom allergens. Int Arch Allergy Immunol. 2014;163(3):179-184.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701416,
+          "label": "17.",
+          "caption": "Bradford MM. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding. Anal Biochem. 1976;72(1-2):248-254.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701417,
+          "label": "18.",
+          "caption": "Hamsten C, Starkhammar M, Tran TAT, et al. Identification of galactose-α-1,3-galactose in the gastrointestinal tract of the tick Ixodes ricinus; possible relationship with red meat allergy. Allergy. 2013;68(4):549-552.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701418,
+          "label": "19.",
+          "caption": "Cunningham S, Starr E, Shaw I, et al. Development of a convenient competitive ELISA for the detection of the free and protein-bound nonhuman galactosyl-α-(1,3)-galactose epitope based on highly specific chicken single-chain antibody variable-region fragments. Anal Chem. 2013;85(2):949-955.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701419,
+          "label": "20.",
+          "caption": "Ivanciuc O, Schein CH, Braun W. SDAP: Database and computational tools for allergenic proteins. Nucleic Acids Res. 2003;31(1):359-362.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701420,
+          "label": "21.",
+          "caption": "Ivanciuc O, Midoro-Horiuti T, Schein CH, et al. The property distance index PD predicts peptides that cross-react with IgE antibodies. Mol Immunol. 2009;46(5):873-883.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701421,
+          "label": "22.",
+          "caption": "Sterba J, Dupejova J, Fiser M, et al. Fibrinogen-related proteins in ixodid ticks. Parasites and Vectors. 2011;4(1):127.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701422,
+          "label": "23.",
+          "caption": "Blank S, Seismann H, McIntyre M, et al. Vitellogenins Are New High Molecular Weight Components and Allergens (Api m 12 and Ves v 6) of Apis mellifera and Vespula vulgaris Venom. PLoS One. 2013;8(4).",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701423,
+          "label": "24.",
+          "caption": "Nose Y, Min Lee J, Ueno T, et al. Cloning of cDNA for vitellogenin of the parasitoid wasp, Pimpla nipponica (Hymenoptera: Apocrita: Ichneumonidae): Vitellogenin primary structure and evolutionary considerations. Insect Biochem Mol Biol. 1997;27(12):1047-1056.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701424,
+          "label": "25.",
+          "caption": "Bohle B, Zwölfer B, Fischer GF, et al. Characterization of the human T cell response to antigen 5 from Vespula vulgaris (Ves v 5). Clin Exp Allergy. 2005;35(3):367-373.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701425,
+          "label": "26.",
+          "caption": "Kolarich D, Loos A, Léonard R, et al. A proteomic study of the major allergens from yellow jacket venoms. 2007;7(10):1615-23.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701426,
+          "label": "27.",
+          "caption": "Björnsson E, Janson C, Plaschke P, Norrman E, Sjöberg O. Venom allergy in adult Swedes: a population study. Allergy. 1995;50(10):800-805.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701427,
+          "label": "28.",
+          "caption": "Mosbech H, Tang L, Linneberg A. Insect Sting Reactions and Specific IgE to Venom and Major Allergens in a General Population. Int Arch Allergy Immunol. 2016;170(3):194-200.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701428,
+          "label": "29.",
+          "caption": "Stoevesandt J, Hosp C, Kerstan A, et al. Sensitization to Hymenoptera venom marker allergens: Prevalence, predisposing factors, and clinical implications. Clin Exp Allergy. 2018;48(12):1735-1743.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701429,
+          "label": "30.",
+          "caption": "Donohue KV, Khalil SMS, Mitchell RD, et al. Molecular characterization of the major hemelipoglycoprotein in ixodid ticks. Insect Mol Biol. 2008;17(3):197-208.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701430,
+          "label": "31.",
+          "caption": "Khalil SMS, Donohue K V., Thompson DM, et al. Full-length sequence, regulation and developmental studies of a second vitellogenin gene from the American dog tick, Dermacentor variabilis. J Insect Physiol. 2011;57(3):400-408.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701431,
+          "label": "32.",
+          "caption": "Park KH, Lee J, Lee J-Y, et al. Sensitization to various minor house dust mite allergens is greater in patients with atopic dermatitis than in those with respiratory allergic disease. Clin Exp Allergy. 2018;48(8):1050-1058.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701432,
+          "label": "33.",
+          "caption": "Khanaruksombat S, Srisomsap C, Chokchaichamnankit D, et al. Identification of a novel allergen from muscle and various organs in banana shrimp (Fenneropenaeus merguiensis). Ann Allergy, Asthma Immunol. 2014;113(3):301-306.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701433,
+          "label": "34.",
+          "caption": "Chuang JG, Su SN, Chiang BL, et al. Proteome mining for novel IgE-binding proteins from the German cockroach (Blattella germanica) and allergen profiling of patients. Proteomics. 2010;10(21):3854-3867.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701434,
+          "label": "35.",
+          "caption": "Barre A, Simplicien M, Cassan G, et al. Food allergen families common to different arthropods (mites, insects, crustaceans), mollusks and nematods: Cross-reactivity and potential cross-allergenicity. Rev Fr Allergol. 2018;58(8):581-593.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701435,
+          "label": "36.",
+          "caption": "Banerjee S, Resch Y, Chen KW, et al. Der p 11 is a Major Allergen for House Dust Mite-Allergic Patients Suffering from Atopic Dermatitis. J Invest Dermatol. 2015;135(1):102-109.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "true",
+          "deleted": "false",
+          "editReason": "system issue"
+        },
+        {
+          "id": 4701436,
+          "label": "37.",
+          "caption": "Altmann F. Coping with cross-reactive carbohydrate determinants in allergy diagnosis. Allergo J Int. 2016;25(4):98-105.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        },
+        {
+          "id": 4701437,
+          "label": "38.",
+          "caption": "Kiewiet MBG, Grundström J, Apostolovic D, et al. Elucidating the α‐Gal syndrome at the molecular allergen level. Allergy. 2020;76(5):1576-78.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        }
+      ],
+      "page_count": 32,
+      "word_count": 6249,
+      "equation_count": 0,
+      "supplementary_figure_metadata": [
+        {
+          "id": 96620,
+          "type": "supplementary-figure",
+          "label": "Figure S1",
+          "caption": "Coomassie Brilliant Blue (CBB) staining of SDS-PAGE protein patterns of wasp venom protein and tick protein extract (I. ricinus). 1=vitellogenin, 2= vitellogenin subunits, 3= Ves v 1, 4= Ves  v 5, 5= hemelipoglycoprotein, 6= hemelipoglycoprotein subunit.",
+          "citation": "Yes",
+          "table_float": "",
+          "file_url": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/PREFLIGHT/wasp manuscript 22.10.21_aangepast3.docx",
+          "file_name": "wasp manuscript 22.10.21_aangepast3.docx",
+          "is_external_figure": false,
+          "is_usable": "true",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        }
+      ],
+      "supplementary_table_metadata": [
+        {
+          "id": 58410,
+          "label": "Table S1",
+          "caption": "IgE levels to wasp, tick and α-Gal of sera from wasp-positive controls.",
+          "citation": "Yes",
+          "feedback": {
+            "correct": "yes",
+            "remarks": ""
+          },
+          "identified_by": "",
+          "citation_position": "",
+          "verified": "false",
+          "deleted": "false",
+          "editReason": ""
+        }
+      ],
+      "article_type": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": "Research Article",
+        "metadata": "",
+        "isMatch": "false",
+        "verified": "true",
+        "deleted": "false",
+        "editReason": "manuscript update"
+      },
+      "article_category": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": "Original Article",
+        "metadata": "Original Article",
+        "isMatch": "false",
+        "verified": "true",
+        "type": "",
+        "deleted": "false",
+        "editReason": "manuscript update"
+      },
+      "transparent_peer_review": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "review": [
+          {
+            "comments": ""
+          }
+        ]
+      },
+      "subject_info": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "subject": [
+          {
+            "info": ""
+          }
+        ]
+      },
+      "graphical_abstract_etoc": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "graphical_value": "no"
+      },
+      "pdb_link": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "pdb": ""
+      },
+      "orb_information": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "orb": [
+          {
+            "orb": "",
+            "badge_type": ""
+          }
+        ]
+      },
+      "embargo": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "value": "no",
+        "info": "",
+        "stage": ""
+      },
+      "erm_information": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "erm": "no"
+      },
+      "production_notes": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "notes": [
+          {
+            "comments": ""
+          }
+        ]
+      },
+      "editor_note": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "IFATS": "no"
+      },
+      "content_team_service_remark": {
+        "remark": ""
+      },
+      "data_availability_statement": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "content": [
+          {
+            "statement": "The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request."
+          }
+        ]
+      },
+      "wires_section": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "topics": [
+          {
+            "main_topic": "",
+            "sub_topic": "",
+            "code": ""
+          }
+        ]
+      },
+      "fig_share": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "value": ""
+      },
+      "author_contribution_list": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "contribution_list": [
+          {
+            "author": {
+              "firstname": "Mensiena",
+              "lastname": "Kiewiet",
+              "salutation": "Dr."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+                "contribution": "Conceptualization"
+              },
+              {
+                "contrib_id": "f93e0f44-f2a4-4ea1-824a-4e0853b05c9d",
+                "contribution": "Data curation"
+              },
+              {
+                "contrib_id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+                "contribution": "Formal analysis"
+              },
+              {
+                "contrib_id": "2451924d-425e-4778-9f4c-36c848ca70c2",
+                "contribution": "Investigation"
+              },
+              {
+                "contrib_id": "f21e2be9-4e38-4ab7-8691-d6f72d5d5843",
+                "contribution": "Methodology"
+              },
+              {
+                "contrib_id": "a693fe76-ea33-49ad-9dcc-5e4f3ac5f938",
+                "contribution": "Project administration"
+              },
+              {
+                "contrib_id": "76b9d56a-e430-4e0a-84c9-59c11be343ae",
+                "contribution": "Visualization"
+              },
+              {
+                "contrib_id": "43ebbd94-98b4-42f1-866b-c930cef228ca",
+                "contribution": "Writing – original draft"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Marija",
+              "lastname": "Perusko",
+              "salutation": "Dr."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+                "contribution": "Conceptualization"
+              },
+              {
+                "contrib_id": "f21e2be9-4e38-4ab7-8691-d6f72d5d5843",
+                "contribution": "Methodology"
+              },
+              {
+                "contrib_id": "76b9d56a-e430-4e0a-84c9-59c11be343ae",
+                "contribution": "Visualization"
+              },
+              {
+                "contrib_id": "43ebbd94-98b4-42f1-866b-c930cef228ca",
+                "contribution": "Writing – original draft"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Jeanette",
+              "lastname": "Grundstrom",
+              "salutation": "Dr."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+                "contribution": "Conceptualization"
+              },
+              {
+                "contrib_id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
+                "contribution": "Writing – review & editing"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Carl",
+              "lastname": "Hamsten",
+              "salutation": "Dr."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
+                "contribution": "Writing – review & editing"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Maria",
+              "lastname": "Starkhammar",
+              "salutation": ""
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
+                "contribution": "Writing – review & editing"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Danijela",
+              "lastname": "Apostolovic",
+              "salutation": "Dr."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+                "contribution": "Conceptualization"
+              },
+              {
+                "contrib_id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+                "contribution": "Funding acquisition"
+              },
+              {
+                "contrib_id": "f21e2be9-4e38-4ab7-8691-d6f72d5d5843",
+                "contribution": "Methodology"
+              },
+              {
+                "contrib_id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
+                "contribution": "Writing – review & editing"
+              }
+            ]
+          },
+          {
+            "author": {
+              "firstname": "Marianne",
+              "lastname": "van Hage",
+              "salutation": "Prof."
+            },
+            "contrib_details": [
+              {
+                "contrib_id": "8b73531f-db56-4914-9502-4cc4d4d8ed73",
+                "contribution": "Conceptualization"
+              },
+              {
+                "contrib_id": "95394cbd-4dc8-4735-b589-7e5f9e622b3f",
+                "contribution": "Funding acquisition"
+              },
+              {
+                "contrib_id": "f21e2be9-4e38-4ab7-8691-d6f72d5d5843",
+                "contribution": "Methodology"
+              },
+              {
+                "contrib_id": "43ebbd94-98b4-42f1-866b-c930cef228ca",
+                "contribution": "Writing – original draft"
+              },
+              {
+                "contrib_id": "d3aead86-f2a2-47f7-bb99-79de6421164d",
+                "contribution": "Writing – review & editing"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "feedbacks": {
+      "title": "",
+      "author_group": "",
+      "affiliations": "",
+      "corresponding_author_address": "",
+      "corresponding_author_email_address": "",
+      "abstract": "",
+      "keywords": "",
+      "line_numbering": "",
+      "page_count": "",
+      "word_count": "",
+      "table_count": "",
+      "editable_table_count": "",
+      "equation_count": "",
+      "figure_count": "",
+      "authors_count": "",
+      "affiliations_count": "",
+      "keywords_count": "",
+      "missing_figures": "",
+      "missing_supplementary_figures": "",
+      "missing_tables": "",
+      "missing_supplementary_tables": "",
+      "missing_scheme": "",
+      "missing_references": "",
+      "missing_figure_caption": "",
+      "missing_table_caption": "",
+      "missing_scheme_caption": "",
+      "missing_citation_for_figures": "",
+      "missing_citation_for_supplementary_figures": "",
+      "missing_citation_for_tables": "",
+      "missing_citation_for_supplementary_tables": "",
+      "missing_citation_for_references": "",
+      "missing_citation_for_schemes": "",
+      "is_submitted": ""
+    },
+    "duplicate_file_details": [],
+    "feedback_options": [
+      "Identified correctly",
+      "Incorrectly identified",
+      "Incorrectly identified as missing",
+      "Identified but with error",
+      "Others"
+    ],
+    "vendor_information": {
+      "accessor_name": "smart-diagnostics-wiley-testing",
+      "name": "WILEY",
+      "email_id": "",
+      "pe": ""
+    },
+    "inputPackage": "https://s3.amazonaws.com/wiley-cu-live/wiley-cu-live/5cebbccf-6c74-11ec-afe7-12a0a5b2ebb3/input/CLT2_2021_12113_2022-01-03_09-04-35.zip",
+    "bookInType": "automated",
+    "fromSubmission": {
+      "pii": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "CLT"
+      },
+      "doi": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "10.1002/clt2.12113",
+        "manuscript": "",
+        "isMatch": "false",
+        "editReason": "manuscript update",
+        "verified": "true"
+      },
+      "publisherName": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "Clinical and Translational Allergy"
+      },
+      "publicationType": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "manuscript": "",
+        "isMatch": "false",
+        "metadata": "Original Article",
+        "editReason": "",
+        "verified": "false"
+      },
+      "journalTitle": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "Clinical and Translational Allergy"
+      },
+      "journalAbbr": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "CLT2"
+      },
+      "ArticleId": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "12113"
+      },
+      "editorialReferenceCode": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "CLT-2021-11-0239"
+      },
+      "received": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "24-Nov-2021"
+      },
+      "revised": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": []
+      },
+      "accepted": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "01-Jan-2022"
+      },
+      "submission": {
+        "feedback": {
+          "correct": "yes",
+          "remarks": ""
+        },
+        "metadata": "24-Nov-2021"
+      }
+    },
+    "files_in_submission": [
+      {
+        "file_name": "Additional file_1.docx",
+        "file_role": "SupportingManuscript"
+      },
+      {
+        "file_name": "article.xml",
+        "file_role": "Miscellaneous"
+      },
+      {
+        "file_name": "clt-2021-11-0239-manifest.html",
+        "file_role": "Miscellaneous"
+      },
+      {
+        "file_name": "clt-2021-11-0239-metadata.xml",
+        "file_role": "Miscellaneous"
+      },
+      {
+        "file_name": "clt-2021-11-0239.pdf",
+        "file_role": "PublisherInput"
+      },
+      {
+        "file_name": "Figure 1.tif",
+        "file_role": "Figure"
+      },
+      {
+        "file_name": "figure 2 kopie2.jpg",
+        "file_role": "Figure"
+      },
+      {
+        "file_name": "Figure 3.tif",
+        "file_role": "Figure"
+      },
+      {
+        "file_name": "Figure 4 kopie.jpg",
+        "file_role": "Figure"
+      },
+      {
+        "file_name": "manifest.xml",
+        "file_role": "Miscellaneous"
+      },
+      {
+        "file_name": "wasp manuscript 22.10.21_aangepast3.docx",
+        "file_role": "Manuscript"
+      }
+    ],
+    "jsld_information": {
+      "abbrevations": "Not Required",
+      "abstractDocLanguage": "Structured",
+      "acknowledgements": "Required",
+      "articleHistoryDate": "Required",
+      "authorBiography": "Not Required",
+      "citationStyle": "Wiley Numbered Superscript",
+      "column": "2 column",
+      "conflictofInterest": "",
+      "copyEditingLevel": "CE2 (Vendor copyedited – Advanced language + Technical editing)",
+      "copyright": "© YYYY The Authors. Clinical and Translational Allergy published by John Wiley and Sons Ltd on behalf of European Academy of Allergy and Clinical Immunology",
+      "ethicsStatement": "Not Required",
+      "fundingInformation": "Required",
+      "graphicalAbstract": "Not Required",
+      "heading_numbering_styling": "Unnumbered",
+      "jelsClassification": "Not Required",
+      "journalDoi": "10.1002/(ISSN)2045-7022",
+      "journalAbbreviatedName": "Clin Transl Allergy",
+      "journalTitle": "",
+      "keyPoints": "Not Required",
+      "keywords": "Required",
+      "layoutDesign": "L3 (210 x 276)",
+      "onlineIssn": "2045-7022",
+      "openPracticeBadges": "Not Required",
+      "printIssn": "2045-7022",
+      "referenceStyle": "American Medical Association (AMA) Reference Style",
+      "supportingInformation": "Optional",
+      "transperentPeerReview": "Not Required",
+      "trimSize": "L3 (210 x 276)",
+      "typographyId": 0,
+      "typographyText": "Lato"
+    }
+  },
+  "message": ""
+}
